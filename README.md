@@ -1,4 +1,4 @@
-# (Лабораторная работа №1. Знакомство с OpenGL) Laboratory work No. 1. Introducing OpenGL
+# Лабораторная работа №1. Знакомство с OpenGL (Laboratory work No. 1. Introducing OpenGL)
 ВВЕДЕНИЕ В ПРОГРАММИРОВАНИЕ С ИСПОЛЬЗОВАНИЕМ OpenGL  
 How to create simple project on OpenGL cpp. Drawing lines with points and creating menu for managing
 
