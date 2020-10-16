@@ -51,6 +51,7 @@ void Display(void)
 
 	for (int i = 0; i < Lines.size(); i++)
 	{
+		glColor3ub(Lines[i].Red, Lines[i].Green, Lines[i].Blue);
 		if ( (i + 1) == Lines.size())
 		{
 			glLineWidth(10);
@@ -59,7 +60,6 @@ void Display(void)
 		else
 		{
 			glLineWidth(5);
-			glColor3ub(Lines[i].Red, Lines[i].Green, Lines[i].Blue);
 		}
 
 		glBegin(GL_LINE_LOOP);
